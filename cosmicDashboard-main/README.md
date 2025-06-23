@@ -5,7 +5,7 @@ Welcome to the NASA Space Data Explorer – a full-stack web application built w
 ## 🌌 Live Demo
 
 🔗 [Live App URL Here]  
-🔗 [GitHub Repository Here]
+🔗 https://github.com/AnnuKodam/nasa-space-explorer
 
 ---
 
@@ -43,7 +43,7 @@ Welcome to the NASA Space Data Explorer – a full-stack web application built w
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nasa-space-explorer.git
+git clone https://github.com/AnnuKodam/nasa-space-explorer.git
 cd nasa-space-explorer
 ```
 
