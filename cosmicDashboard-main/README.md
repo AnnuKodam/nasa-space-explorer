@@ -51,7 +51,7 @@ cd nasa-space-explorer
 
 Register for a free NASA API key from [https://api.nasa.gov](https://api.nasa.gov).
 
-Add your key to the `.env` file in `backend/` directory:
+Create a `.env` file in `backend/` directory:
 
 **backend/.env**
 
