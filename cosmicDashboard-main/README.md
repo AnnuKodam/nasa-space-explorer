@@ -4,7 +4,8 @@ Welcome to the NASA Space Data Explorer – a full-stack web application built w
 
 ## 🌌 Live Demo
 
-🔗 [Live App URL Here]  
+🔗 Backend URL: https://nasa-backend-dzlm.onrender.com/
+
 🔗 https://github.com/AnnuKodam/nasa-space-explorer
 
 ---
@@ -24,7 +25,7 @@ Welcome to the NASA Space Data Explorer – a full-stack web application built w
 - **Frontend**: React, Axios, Chart.js , Tailwind CSS , Tanstack React Query
 - **Backend**: Node.js, Express
 - **API**: [NASA Open APIs](https://api.nasa.gov/)
-- **Deployment**: Vercel
+- **Deployment**: Render
 
 ---
 
