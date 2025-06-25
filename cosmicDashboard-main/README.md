@@ -6,6 +6,8 @@ Welcome to the NASA Space Data Explorer – a full-stack web application built w
 
 🔗 Backend URL: https://nasa-backend-dzlm.onrender.com/
 
+🔗 Frontend URL: https://nasa-frontend-kqlr.onrender.com/
+
 🔗 https://github.com/AnnuKodam/nasa-space-explorer
 
 ---
@@ -61,7 +63,7 @@ NASA_API_KEY=your_api_key_here
 PORT=5000
 ```
 
----
+## Change the Port to https://nasa-backend-dzlm.onrender.com/api when running on build
 
 ## 📦 Backend Setup
 
