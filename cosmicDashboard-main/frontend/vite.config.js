@@ -6,7 +6,6 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   build: {
-    outDir: "../backend/client", // 👈 this creates the client folder in backend/
-    emptyOutDir: true,
+    outDir: "dist", // ✅ use default
   },
 });
